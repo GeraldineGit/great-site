@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(228, 174, 245);
+}
+
+.gris{
+background-color:rgb(165, 82, 243);
+height: 100px;
+}
+
+.copyright{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(165, 82, 243);
+}
+
+h1{
+    text-align: center;
+    color: indigo;
+}
+
+h2{
+    text-decoration: underline;
+    font-family: fantasy;
+}
+
+.experience{
+    font-size: small;
+    font-family: Verdana;
+}
+
+.formation{
+    font-size: small;
+    font-family: Verdana;
+}
+
+.infos{
+    font-size: small;
+    font-family: Verdana;
+}
+
+.footer-text{
+    font-style: italic;
+}
+
+img {
+	width: 1O0px;
+	height: 40px;
+}
+
